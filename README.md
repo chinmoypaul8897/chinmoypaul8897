@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi, I'm Chinmoy Paul!</h1>
 
-<h3 align="center">
+### I'm a 👨‍💻 Backend Developer passionate about learning new technologies and exploring diverse tech stacks.  
+Specializing in ☕ Java | 🌱 Spring Boot | 🔗 REST APIs, I'm eager to contribute to exciting projects  
+and make meaningful contributions 💻 to the tech community. 🎯
 
-     I'm a  👨‍💻 backend developer passionate about learning new technologies and exploring diverse tech stacks. Specializing in ☕ Java | 🌱 Spring Boot | 🔗 REST APIs, I'm eager to contribute to exciting projects and make meaningful contributions 💻 to the tech community. 🎯
-</h3>
 
 <h3 align="left">My Profiles </h3>
 <p align="left">
